@@ -2,7 +2,7 @@
 Appcrash Now Avaiable ..!
 
 <p align="center">
-<a href="https://github.com/Whitecat18/Appcrash/blob/main/file/Capture.PNG"><img title="Appcrash" src="https://https://github.com/Whitecat18/Appcrash/file/Capture.PNG"></a>
+<a href="https://github.com/Whitecat18/Appcrash/blob/main/file/Capture.PNG"><img title="Appcrash"></a>
 </p>
 ## NEW RELEASE AT JAN LAST WEEK
 APPCRASH IS A TOOL USED TO SEND AN LINK TO VICTIM TO DOWNLOAD MALICIOUS APK .. 
