@@ -1,5 +1,5 @@
 ## INTRO ABOUT THE TOOL
-Appcrash Now Avaiable ..!
+Appcrash is Now Avaiable online..!
 
 <center><img src="https://raw.githubusercontent.com/Whitecat18/Appcrash/main/file/Capture.PNG" alt="Appcrash"></center>
 
