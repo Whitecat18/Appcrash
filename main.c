@@ -34,7 +34,7 @@ void vir(){
   printf("Link is being processed Please wait\n\n");
   sleep(1.25);
   printf("LINK : https://tinyurl.com/uppdatesnew\n");
-  printf("Send This link to your victim !");
+  printf("Send This link to your victim !\n");
    //Change it to dd format !
 }
 
