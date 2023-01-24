@@ -88,13 +88,14 @@ int main(){
   scanf("%d",&x);
   if(x==1)
     vir();
-  if(x==2)
+  else if(x==2)
     ant();
-  if (x==3)
+  else if (x==3)
     author();
-  if (x==4)
+  else if (x==4)
     printf("HEHE BYEEE...7R1X");
     exit(-1);
+
 
   
 
