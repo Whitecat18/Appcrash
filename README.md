@@ -1,9 +1,8 @@
 ## INTRO ABOUT THE TOOL
 Appcrash Now Avaiable ..!
 
-<p align="center">
-<a href="https://github.com/Whitecat18/Appcrash/blob/main/file/Capture.PNG"><img title="Appcrash"></a>
-</p>
+<center><img src="https://raw.githubusercontent.com/Whitecat18/Appcrash/main/file/Capture.PNG" alt="Appcrash"></center>
+
 ## NEW RELEASE AT JAN LAST WEEK
 APPCRASH IS A TOOL USED TO SEND AN LINK TO VICTIM TO DOWNLOAD MALICIOUS APK .. 
 ONCE THE VICTIM HAS INSTALLED THE APK MEANS ..BOOM THATS IT . I DOESNT KNOW WHAT HAPPENS TO HIS PHONE .
