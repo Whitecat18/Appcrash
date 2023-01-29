@@ -35,7 +35,8 @@ PATHCHED DATE -> 28.01.2023
 ## PLATFORM TESTED
 
 Works in all Linux Distros.<br>
-C must be installed
+C must be installed<br>
+Created in Arch Linux 
 
 ## HOW TO RECOVER
 INSTALL RECOVER ARK .
